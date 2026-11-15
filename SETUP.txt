@@ -1,0 +1,8 @@
+ARUNRAJA N — GITHUB PROFILE README
+
+1. Open https://github.com/arunraja124-stack
+2. Open the repository named exactly arunraja124-stack (create it if it does not exist).
+3. Replace its README.md and upload the assets/ folder from this package.
+4. Commit the changes. The README will appear on your GitHub profile.
+
+The profile uses the original red/neon layout structure, customized with your known education, skills, links and SmartLedger project.
